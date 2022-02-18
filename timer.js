@@ -1,5 +1,5 @@
 
-countDownDate = new Date("Feb 18, 2022 23:59:59").getTime();
+countDownDate = new Date("Feb 19, 2022 03:33:08").getTime();
 
 //countdown to 8 hours from now
 var x = setInterval(function() {
